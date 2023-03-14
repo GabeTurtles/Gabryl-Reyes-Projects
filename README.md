@@ -1,2 +1,1 @@
-# Office-Solutions-Data-Analysis
-Data analysis and visualization of Office Solutions data set
+this is a view of my proyecto
