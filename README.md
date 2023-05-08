@@ -1,4 +1,4 @@
-# Gabryl Reyes Project Portfolio
+## Gabryl Reyes Project Portfolio
 ---
 This is a repository containing all of the projects I have completed or in progress either during college or through continuous learning. It showcases projects like data vizualization, data manipulation, and database creation.
 Thank you for taking the time to view my work! 
