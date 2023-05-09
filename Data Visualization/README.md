@@ -1,3 +1,5 @@
+### Office Solutions Data Analysis & Visualization
+---
 **Background:**
 During a college class, we were given a data set of a company called Office Solutions. In the course we were taught how to use Python along with Pandas to access and analyze large data sets, so we were tasked to utilize Python and Pandas as a backbone of our analysis. Along with the professor’s guidance, I, along with a small team, created a recommendation based on our findings and queries to suggest areas where the company is losing value. 
 [**Data:**](https://github.com/GabeTurtles/Gabryl-Reyes-Projects/blob/main/Data%20Visualization/TableauSalesData.xlsx)
