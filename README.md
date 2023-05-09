@@ -11,3 +11,7 @@ The project's goal is to find ways to increase profits over the next five years 
 - Create Python visualizations with Seaborn
 - Further visualizations with Tableau
 - Create a cumulative dashboard in Tableau
+ 
+
+
+and more to come...
