@@ -1,0 +1,111 @@
+﻿ingredient_id,ingredient_name,ingredient_type,ingredient_qty,ingredient_desc,ingredient_price
+0051,Bread (White),Bakery,37,Bread (White) description,2.55
+0052,Bread (Whole Wheat),Bakery,100,Bread (Whole Wheat) description,0.89
+0053,Bagel,Bakery,55,Bagel description,4.97
+0054,Croissant,Bakery,60,Croissant description,1.31
+0040,Milk (whole),Dairy,71,Milk (whole) description,6.96
+0041,Milk (skim),Dairy,51,Milk (skim) description,9.27
+0042,Milk (2%),Dairy,46,Milk (2%) description,6.87
+0043,Butter,Dairy,72,Butter description,8.82
+0044,Cream cheese,Dairy,47,Cream cheese description,1.09
+0045,Sour cream,Dairy,59,Sour cream description,1.90
+0046,Cottage cheese,Dairy,61,Cottage cheese description,7.09
+0047,Heavy cream,Dairy,56,Heavy cream description,1.65
+0048,Whipped cream,Dairy,61,Whipped cream description,6.05
+0049,Half and half,Dairy,36,Half and half description,3.28
+0050,Eggnog,Dairy,20,Eggnog description,3.13
+0106,Cheddar,Dairy,42,Cheddar description,2.16
+0107,Mozzarella,Dairy,81,Mozzarella description,2.53
+0108,Parmesan,Dairy,61,Parmesan description,3.90
+0109,Brie,Dairy,66,Brie description,4.63
+0110,Feta,Dairy,23,Feta description,2.11
+0094,Apple,Fruit,1,Apple description,5.67
+0095,Banana,Fruit,38,Banana description,3.65
+0096,Orange,Fruit,66,Orange description,4.46
+0097,Lime,Fruit,98,Lime description,4.23
+0098,Lemon,Fruit,8,Lemon description,5.21
+0099,Peach,Fruit,29,Peach description,4.44
+0100,Strawberry,Fruit,51,Strawberry description,4.05
+0101,Raspberry,Fruit,16,Raspberry description,6.57
+0102,Blueberry,Fruit,23,Blueberry description,7.17
+0103,Plum,Fruit,81,Plum description,3.36
+0104,Fig,Fruit,27,Fig description,3.13
+0023,Chicken Breast,Meat,56,Chicken Breast description,6.03
+0024,Chicken Thigh,Meat,44,Chicken Thigh description,12.04
+0025,Chicken Wing,Meat,46,Chicken Wing description,5.31
+0026,Bacon,Meat,88,Bacon description,9.94
+0027,Pork Chop,Meat,94,Pork Chop description,8.22
+0028,Ground Beef,Meat,30,Ground Beef description,13.40
+0029,Ham,Meat,45,Ham description,8.41
+0030,Pastrami,Meat,88,Pastrami description,7.13
+0031,Turkey Breast,Meat,34,Turkey Breast description,11.18
+0032,Sirloin,Meat,16,Sirloin description,9.96
+0033,Ribeye,Meat,80,Ribeye description,10.65
+0085,Almond,Nut & Seed,21,Almond description,6.29
+0086,Walnut,Nut & Seed,61,Walnut description,6.81
+0087,Pecan,Nut & Seed,38,Pecan description,6.11
+0088,Cashew,Nut & Seed,33,Cashew description,6.81
+0089,Peanut,Nut & Seed,54,Peanut description,1.64
+0090,Pistachio,Nut & Seed,67,Pistachio description,6.14
+0091,Hazelnut,Nut & Seed,80,Hazelnut description,2.56
+0092,Sunflower Seed,Nut & Seed,20,Sunflower Seed description,4.74
+0093,Sesame Seed,Nut & Seed,24,Sesame Seed description,2.91
+0078,Olive Oil,Oil,34,Olive Oil description,4.00
+0079,Vegetable Oil,Oil,62,Vegetable Oil description,2.42
+0080,Canola Oil,Oil,48,Canola Oil description,3.24
+0081,Coconut Oil,Oil,33,Coconut Oil description,4.29
+0082,Sunflower Oil,Oil,87,Sunflower Oil description,2.32
+0083,Avocado Oil,Oil,55,Avocado Oil description,4.22
+0084,Peanut Oil,Oil,62,Peanut Oil description,4.73
+0055,Spaghetti,Pasta,42,Spaghetti description,8.49
+0056,Linguine,Pasta,70,Linguine description,9.42
+0057,Fettuccine,Pasta,93,Fettuccine description,6.97
+0058,Penne,Pasta,93,Penne description,3.46
+0059,Rigatoni,Pasta,41,Rigatoni description,5.12
+0060,Macaroni,Pasta,32,Macaroni description,2.48
+0061,Ravioli,Pasta,8,Ravioli description,5.02
+0062,Angel Hair,Pasta,11,Angel Hair description,4.23
+0072,Ketchup,Sauce,51,Ketchup description,2.40
+0073,Mustard,Sauce,96,Mustard description,4.11
+0074,Mayonnaise,Sauce,52,Mayonnaise description,2.73
+0075,BBQ sauce,Sauce,1,BBQ sauce description,1.80
+0076,Worcestershire Sauce,Sauce,96,Worcestershire Sauce description,3.68
+0077,Soy Sauce,Sauce,1,Soy Sauce description,3.22
+0034,Shrimp,Seafood,6,Shrimp description,4.13
+0035,Salmon,Seafood,27,Salmon description,8.04
+0036,Tuna,Seafood,37,Tuna description,8.12
+0037,Sardine,Seafood,13,Sardine description,4.77
+0038,Oyster,Seafood,60,Oyster description,4.40
+0039,Tilapia,Seafood,35,Tilapia description,3.67
+0014,Coriander,Spice & Herb,53,Coriander description,0.64
+0015,Chives,Spice & Herb,69,Chives description,0.77
+0016,Sage,Spice & Herb,91,Sage description,0.89
+0017,Rosemary,Spice & Herb,9,Rosemary description,0.16
+0018,Oregano,Spice & Herb,16,Oregano description,0.02
+0019,Paprika,Spice & Herb,31,Paprika description,0.93
+0020,Chili Flakes,Spice & Herb,89,Chili Flakes description,0.68
+0021,Thyme,Spice & Herb,84,Thyme description,0.85
+0022,Tumeric,Spice & Herb,43,Tumeric description,0.88
+0070,Black Pepper,Spice & Herb,36,Black Pepper description,2.49
+0105,Salt,Spice & Herb,84,Salt description,0.50
+0063,Granulated Sugar,Sugar & Sweetener,62,Granulated Sugar description,0.68
+0064,Brown Sugar,Sugar & Sweetener,78,Brown Sugar description,1.83
+0065,Cane Sugar,Sugar & Sweetener,64,Cane Sugar description,0.56
+0066,Honey,Sugar & Sweetener,55,Honey description,0.84
+0067,Molasses,Sugar & Sweetener,1,Molasses description,2.41
+0068,Corn Syrup,Sugar & Sweetener,55,Corn Syrup description,2.98
+0069,Maple Syrup,Sugar & Sweetener,25,Maple Syrup description,1.04
+0001,Bok Choy,Vegetable,25,Bok Choy description,2.49
+0002,Cherry Tomato,Vegetable,96,Cherry Tomato description,1.79
+0003,Turnip,Vegetable,30,Turnip description,0.87
+0004,Sweet Potato,Vegetable,20,Sweet Potato description,1.69
+0005,Spinach,Vegetable,55,Spinach description,2.41
+0006,Onion,Vegetable,12,Onion description,2.23
+0007,Mushroom,Vegetable,17,Mushroom description,0.56
+0008,Radish,Vegetable,56,Radish description,1.26
+0009,Shallots,Vegetable,66,Shallots description,1.70
+0010,Lettuce,Vegetable,84,Lettuce description,2.75
+0011,Leek,Vegetable,39,Leek description,1.47
+0012,Garlic,Vegetable,17,Garlic description,0.56
+0013,Cucumber,Vegetable,24,Cucumber description,2.99
+0071,Tomato,Vegetable,31,Tomato description,1.00

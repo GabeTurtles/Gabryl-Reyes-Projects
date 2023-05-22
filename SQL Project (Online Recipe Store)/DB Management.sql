@@ -1,0 +1,79 @@
+SELECT * FROM INGREDIENT;
+SELECT * FROM ONLINERECIPESTORE.ORDER;
+SELECT * FROM RECIPE;
+SELECT * FROM ONLINERECIPESTORE.USER;
+SELECT * FROM INGREDIENT_BATCH;
+
+-- change column name since import column name was incorrectly imported
+ALTER TABLE RECIPE
+RENAME COLUMN ï»¿recipe_id TO recipe_id;
+
+ALTER TABLE onlinerecipestore.USER
+RENAME COLUMN ï»¿user_id TO user_id;
+
+ALTER TABLE INGREDIENT_BATCH
+RENAME COLUMN ï»¿recipe_id TO recipe_id;
+
+ALTER TABLE INGREDIENT
+RENAME COLUMN ï»¿ingredient_id TO ingredient_id;
+
+ALTER TABLE onlinerecipestore.ORDER
+RENAME COLUMN ï»¿order_num TO order_num;
+
+ALTER TABLE INGREDIENT_BATCH
+RENAME COLUMN order_num TO recipe_id;
+
+-- change ID columns data type from text to varchar
+ALTER TABLE onlinerecipestore.INGREDIENT
+MODIFY COLUMN INGREDIENT_ID varchar(4);
+
+ALTER TABLE onlinerecipestore.ORDER
+MODIFY COLUMN ORDER_NUM varchar(4);
+
+ALTER TABLE onlinerecipestore.ORDER
+MODIFY COLUMN USER_ID varchar(4);
+
+ALTER TABLE onlinerecipestore.ORDER
+MODIFY COLUMN RECIPE_ID varchar(4);
+
+ALTER TABLE onlinerecipestore.USER
+MODIFY COLUMN USER_ID varchar(4);
+
+ALTER TABLE onlinerecipestore.RECIPE
+MODIFY COLUMN RECIPE_ID varchar(4);
+
+ALTER TABLE INGREDIENT_BATCH
+MODIFY COLUMN RECIPE_ID varchar(4);
+
+ALTER TABLE INGREDIENT_BATCH
+MODIFY COLUMN INGREDIENT_ID varchar(4);
+
+-- assigned primary and foreign keys to tables with id columns
+ALTER TABLE RECIPE
+ADD PRIMARY KEY (RECIPE_ID);
+
+ALTER TABLE onlinerecipestore.USER
+ADD PRIMARY KEY (USER_ID);
+
+ALTER TABLE ingredient
+ADD PRIMARY KEY (INGREDIENT_ID);
+
+ALTER TABLE onlinerecipestore.ORDER
+ADD PRIMARY KEY (ORDER_NUM);
+
+ALTER TABLE onlinerecipestore.ORDER
+ADD FOREIGN KEY (USER_ID) REFERENCES onlinerecipestore.USER(USER_ID);
+
+ALTER TABLE onlinerecipestore.ORDER
+ADD FOREIGN KEY (RECIPE_ID) REFERENCES RECIPE(RECIPE_ID);
+
+ALTER TABLE INGREDIENT_BATCH
+ADD FOREIGN KEY (RECIPE_ID) REFERENCES RECIPE(RECIPE_ID);
+
+ALTER TABLE INGREDIENT_BATCH
+ADD FOREIGN KEY (INGREDIENT_ID) REFERENCES INGREDIENT(INGREDIENT_ID);
+
+-- recipe contains error in recipe descritpion for Shrimp Scampi
+UPDATE RECIPE
+SET RECIPE_DESC = ' Succulent shrimp sautéed in garlic butter and served over a bed of linguine.'
+WHERE RECIPE_NAME = 'SHRIMP SCAMPI';
