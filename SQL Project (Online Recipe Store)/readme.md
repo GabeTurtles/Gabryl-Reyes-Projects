@@ -19,6 +19,7 @@ Create a database for an online recipe store and perform queries on the database
 ![alt text](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/images/ERD_Final.jpeg?raw=true)
 
 **2.** Next, I used Excel to create tables in multiple sheets to store the data. I then saved the Excel files as CSV files since MySQL supports importing of CSV and not xlsx files.
+
 ![alt text](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/images/ExcelExample.jpg?raw=true)
 
 **3.** With the data imported into a schema on MySQL, I started updating the database and fixing any importing errors. I used MySQL to change the database using specific functions and statements, which can be viewed [**here!**](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/DB%20Management.sql)
