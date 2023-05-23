@@ -23,7 +23,10 @@ Create a database for an online recipe store and perform queries on the database
 ![alt text](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/images/ExcelExample.jpg?raw=true)
 
 **3.** With the data imported into a schema on MySQL, I started updating the database and fixing any importing errors. This includes adding primary and foreign key constraints and changing column names and data types. I used MySQL to change the database using specific functions and statements, which can be viewed [**here!**](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/DB%20Management.sql)
+
 ![alt text](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/images/DBManagementExample.jpg?raw=true)
 **4.** Lastly, a couple of queries of the database was made to examine specific tables. Those queries can be found [**here!**](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/Queries.sql)
+
 ![alt text](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/images/QueryExample.jpg?raw=true)
+
 ![alt text](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/SQL%20Project%20(Online%20Recipe%20Store)/images/Query3.jpg?raw=true)
