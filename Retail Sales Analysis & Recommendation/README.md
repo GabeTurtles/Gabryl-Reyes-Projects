@@ -28,4 +28,3 @@ Lastly, I created a recommendation based on my findings from my Python querying.
 - The furniture category should be a main concern and focus point of change to increase profits
 - The top selling furniture products need to have their average discount rates decreased to increase the profit margin.
 - The lowest profit furniture products need to be discontinued since they are producing large negative profits for the company even if they are considered as loss leaders.
-](https://dillinger.io/)https://dillinger.io/](https://dillinger.io/)https://dillinger.io/](https://dillinger.io/)https://dillinger.io/](https://dillinger.io/)https://dillinger.io/
