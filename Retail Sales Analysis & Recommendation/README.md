@@ -24,7 +24,7 @@ Utilize the given data set to provide meaningful insights on how the company cou
 *Here is a preview of the dashboard I created to focus on how the product categories are different from each other. Interactive Dashboard can be accessed [HERE](https://public.tableau.com/views/OfficeSolutionsDataViz/Dashie?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*
 
 **3.**
-Lastly, I created a recommendation based on my findings from my Python querying. In this [document](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/Data%20Visualization%20(Office%20Solutions)/Office%20Solutions%20Recommendation.pdf), I conclude that:
+Lastly, I created a recommendation based on my findings from my Python querying. In this [document](https://github.com/GabrylReyes/Projects/blob/main/Retail%20Sales%20Analysis%20%26%20Recommendation/Office%20Solutions%20Tableau%20Dash.jpg), I conclude that:
 - The furniture category should be a main concern and focus point of change to increase profits
 - The top selling furniture products need to have their average discount rates decreased to increase the profit margin.
 - The lowest profit furniture products need to be discontinued since they are producing large negative profits for the company even if they are considered as loss leaders.
