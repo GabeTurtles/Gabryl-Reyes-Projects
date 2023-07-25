@@ -17,7 +17,7 @@ Each transaction shows various fields like:
 Utilize the given data set to provide meaningful insights on how the company could increase their profits in the next years.
 
 #### **Procedure:**
-**1.** I needed to find a basis for my analysis to take place since the dataset contained multiple columns/variables. So, I utilized Python and Pandas to query the data and examine specific parts of the data set. Additionally, I used the Seaborn library to give myself a visual understanding of some data I was interested in. My work along with detailed notes can be found [**HERE**](https://github.com/GabrylReyes/Gabryl-Reyes-Projects/blob/main/Data%20Visualization%20(Office%20Solutions)/Office%20Solutions%20Python.ipynb).
+**1.** I needed to find a basis for my analysis to take place since the dataset contained multiple columns/variables. So, I utilized Python and Pandas to query the data and examine specific parts of the data set. Additionally, I used the Seaborn library to give myself a visual understanding of some data I was interested in. My work along with detailed notes can be found [**HERE**](https://github.com/GabrylReyes/Projects/blob/main/Retail%20Sales%20Analysis%20%26%20Recommendation/Office%20Solutions%20Python.ipynb).
 
 **2.** After narrowing down my analysis to specific categories of products, I imported the dataset into Tableau to provide a visualization and assist my overall conclusions. Since my analysis focused on product categories, I constructed multiple visuals to show how an individual category is represented in terms of products and order locations (state/city). 
 ![alt text](https://github.com/GabrylReyes/Projects/blob/main/Retail%20Sales%20Analysis%20%26%20Recommendation/Office%20Solutions%20Tableau%20Dash.jpg?raw=true)
